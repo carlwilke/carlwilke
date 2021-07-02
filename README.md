@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlwilke
 - 👀 I’m interested in Learning new and Exciting Technologies
 - 🌱 I’m currently learning Unity & Python with AI & AR/VR
-- 💞️ I’m looking to collaborate on Game Development in Unity
+- 💞️ I’m looking to collaborate on Mixed Reality and Game Development with Unity
 - 📫 How to reach me ...
 
 <!---
